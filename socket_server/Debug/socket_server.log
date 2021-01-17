@@ -1,0 +1,15 @@
+﻿  TsetRetrieve.c
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(25,16): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(25,16): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(26,16): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(26,16): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(35,18): warning C4013: 'AES_ECB_Encrypt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(63,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(63,22): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(64,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(64,22): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(65,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(65,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(5,15): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(70): warning C4172: 지역 변수 또는 임시: V의 주소를 반환하고 있습니다.
+  socket_server.vcxproj -> C:\Users\82109\source\repos\socket_server\Debug\socket_server.exe

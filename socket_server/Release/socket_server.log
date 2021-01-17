@@ -1,0 +1,38 @@
+﻿  AES.c
+  TsetRetrieve.c
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(25,16): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(25,16): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(26,16): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(26,16): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(35,18): warning C4013: 'AES_ECB_Encrypt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(63,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(63,22): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(64,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(64,22): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(65,17): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(65,17): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(5,15): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(17,26): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(17,26): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(18,19): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(18,19): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(29,27): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(29,27): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(69,39): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(72,43): warning C4133: '함수': 'Index [10]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(98,23): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(98,23): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(99,26): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(99,26): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(134,30): warning C4133: '함수': 'Word [4]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(136,23): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82109\source\repos\socket_server\socket_server\main.c(136,23): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+  코드를 생성하고 있습니다.
+C:\Users\82109\source\repos\socket_server\socket_server\TsetRetrieve.c(70): warning C4172: 지역 변수 또는 임시: V의 주소를 반환하고 있습니다.
+  2 of 18 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  socket_server.vcxproj -> C:\Users\82109\source\repos\socket_server\Release\socket_server.exe
